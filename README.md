@@ -1,4 +1,4 @@
-Belegarbeit 2 – Bildverarbeitung
+**Belegarbeit 2 – Bildverarbeitung**
 
 Dieses Repository enthält meine Lösungen zur Belegarbeit 2 im Modul Bildverarbeitung.
 
